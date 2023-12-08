@@ -1,16 +1,13 @@
-# flutter_zavyalov
+# zavialov-flutter-1
 
-A new Flutter project.
+### Автор: :monocle_face:
+[Даниил Завьялов](https://github.com/zavyalov-daniil)
 
-## Getting Started
+### Текущий результат: :point_down:
 
-This project is a starting point for a Flutter application.
+Тестировалось на Realme C25S, Android 12
 
-A few resources to get you started if this is your first Flutter project:
+Поддерживается только Android и IoS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/zavyalov-daniil/zavialov-flutter-1/assets/113830014/f81e1e15-e425-4146-82c1-b77079a5674d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
