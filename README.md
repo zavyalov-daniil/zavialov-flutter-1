@@ -1,9 +1,9 @@
 # zavialov-flutter-1
 
-### Автор: :monocle_face:
+### Автор: 
 [Даниил Завьялов](https://github.com/zavyalov-daniil)
 
-### Текущий результат: :point_down:
+### Текущий результат: 
 
 Тестировалось на Realme C25S, Android 12
 
