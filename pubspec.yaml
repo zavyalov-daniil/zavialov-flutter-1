@@ -64,6 +64,10 @@ flutter:
     - assets/images/exit.png
     - assets/images/percent.png
     - assets/images/sber.png
+    - assets/images/disclosure.jpg
+    - assets/images/ic_36_arrows_forward_back.png
+    - assets/images/ic_36_percent.png
+    - assets/images/ic_36_speedometer.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

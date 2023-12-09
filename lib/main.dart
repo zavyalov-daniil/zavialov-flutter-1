@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_zavyalov/tariffs/tariffs.dart';
 import 'app_bar/custom_app_bar.dart';
+import 'interests/interests.dart';
 import 'subscriptions/subscriptions.dart';
 
 void main() {
@@ -33,6 +35,8 @@ class MyHomePage extends StatelessWidget {
         children: <Widget>[
           CustomAppBar(),
           subscriptions(context),
+          tariffs(context),
+          interests(context)
         ],
       ),
     );

@@ -5,7 +5,7 @@ import '../common/subscription_card.dart';
 Widget subscriptionList(BuildContext context) {
   return SingleChildScrollView(
     scrollDirection: Axis.horizontal,
-    padding: const EdgeInsets.only(left: 16, top: 20, bottom: 46, right: 16),
+    padding: const EdgeInsets.only(left: 16, top: 20, bottom: 30, right: 16),
     child: Row(children: [
       subscriptionCard(context, 'assets/images/sber.png', 'СберПрайм',
           'Платёж 9 июля', '199 ₽ в месяц'),

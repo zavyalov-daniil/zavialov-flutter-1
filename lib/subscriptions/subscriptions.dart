@@ -6,6 +6,7 @@ Widget subscriptions(BuildContext context) {
     const Padding(
         padding: EdgeInsets.only(left: 16, top: 30, right: 16),
         child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text('У вас подключено',
                 style: TextStyle(
