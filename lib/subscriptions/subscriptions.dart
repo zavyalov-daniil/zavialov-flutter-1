@@ -1,8 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_zavyalov/subscriptions/subscriptions_list.dart';
 
+import '../common/subscription_card.dart';
+
 Widget subscriptions(BuildContext context) {
-  return Column(children: [
+  return ListView(shrinkWrap: true, children: [
     const Padding(
         padding: EdgeInsets.only(left: 16, top: 30, bottom: 20, right: 16),
         child: Column(
@@ -25,12 +27,6 @@ Widget subscriptions(BuildContext context) {
                 )),
           ],
         )),
-    SizedBox(
-      height: 130,
-      child:Padding(
-        padding: const EdgeInsets.only(left: 16),
-        child: subscriptionList(context),
-      ),
-    ),
+    subscriptionList(context),
   ]);
 }
