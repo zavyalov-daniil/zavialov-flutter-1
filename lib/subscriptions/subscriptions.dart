@@ -1,12 +1,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_zavyalov/subscriptions/subscriptions_list.dart';
 
-import '../common/subscription_card.dart';
-
 Widget subscriptions(BuildContext context) {
   return ListView(shrinkWrap: true, children: [
     const Padding(
-        padding: EdgeInsets.only(left: 16, top: 30, bottom: 20, right: 16),
+        padding: EdgeInsets.only(left: 16, top: 30, right: 16),
         child: Column(
           children: [
             Text('У вас подключено',
