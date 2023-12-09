@@ -3,11 +3,15 @@
 ### Автор: 
 [Даниил Завьялов](https://github.com/zavyalov-daniil)
 
+### Disclaimer:
+
+Поддерживается только Android и IoS. 
+
+Прокрутка работает только нажимать на верхнюю часть экрана до кнопок "Профиль" и "Настройки. :shit:
+
 ### Текущий результат: 
 
 Тестировалось на Realme C25S, Android 12
 
-Поддерживается только Android и IoS
-
-![image](https://github.com/zavyalov-daniil/zavialov-flutter-1/assets/113830014/f81e1e15-e425-4146-82c1-b77079a5674d)
+![image](https://github.com/zavyalov-daniil/zavialov-flutter-1/assets/113830014/ffdc6313-43b0-4df9-a911-ceeb6eeb8e33)
 
